@@ -11724,7 +11724,7 @@ p {
     height: 50px;
     z-index: 99;
     transition: all 350ms ease;
-    background-color: #007bff;
+    background-color: #ffffff;
     border-bottom: solid 1px rgba(0,0,0,.03);
     box-shadow: 0 4px 18px 0 rgba(0,0,0,.08)
 }
@@ -11734,7 +11734,7 @@ p {
     height: 50px;
     line-height: 50px;
     font-size: 18px;
-    color: rgb(255, 255, 255);
+    color: #2e2e2e;
     font-weight: 600;
     z-index: 1;
     font-family: source sans pro,sans-serif
@@ -11756,7 +11756,7 @@ p {
     text-align: center;
     line-height: 50px;
     font-size: 18px;
-    color: #ffffff;
+    color: #2e2e2e;
     border: none;
     -webkit-appearance: none;
     appearance: none;
